@@ -1,5 +1,4 @@
 # Arduino
-## Description
 Arduino-based experiments and MIDI controllers
 
 ## Files
