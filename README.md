@@ -16,3 +16,6 @@ LoopBe allows this data to be fed to music software.
 ## Files
 ### pot_midi_x4
 Arduino sketch that reads analog values from 4 potentiometers and converts these values to serial MIDI data. 
+
+##  accelerometer_to_MIDI
+Arduino sketch that reads values from an MMA7361 accelerometer  and converts these values to serial MIDI data.
