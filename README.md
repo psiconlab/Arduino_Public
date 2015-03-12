@@ -8,6 +8,7 @@ Hairless MIDI serial and LoopBe need to be installed on the PC.
 Hairless MIDI deals with the serial data. LoopBe allows this data to be fed to music software.
 
 [Hairless MIDI Serial to MIDI Bridge] (http://projectgus.github.io/hairless-midiserial/)
+
 [LoopBe1 - Virtual MIDI driver](http://nerds.de/en/loopbe1.html)
 
 ## Files
