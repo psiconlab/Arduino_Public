@@ -8,6 +8,11 @@ Hairless MIDI serial and LoopBe need to be installed on the PC. Hairless MIDI de
 
 [LoopBe1 - Virtual MIDI driver](http://nerds.de/en/loopbe1.html)
 
+## Videos
+
+Some videos of these in action here:<br>
+https://www.youtube.com/user/phluxm
+
 ## Files
 ### potentiometer_x4_to_MIDI
 Arduino sketch that reads analog values from 4 potentiometers and converts these values to serial MIDI data. 
@@ -15,7 +20,4 @@ Arduino sketch that reads analog values from 4 potentiometers and converts these
 ### accelerometer_to_MIDI
 Arduino sketch that reads values from an MMA7361 accelerometer  and converts these values to serial MIDI data.
 
-## Videos
 
-Some videos of these in action here:<br>
-https://www.youtube.com/user/phluxm
