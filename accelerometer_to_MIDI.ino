@@ -78,13 +78,16 @@ void loop()
    
    z = 127 - z;
  
+
+ 
   if (x != lastX) 
   {
      if (outputMIDI)
      {
-       Serial.write(0xB0);
-       Serial.write(1);
-       Serial.write(x);
+       //Info about the Serial.write data below which sends out MIDI messages can be found here: https://ccrma.stanford.edu/~craig/articles/linuxmidi/misc/essenmidi.html
+       Serial.write(0xB0); //This states the MIDI data is a Continuous Controller (CC) message
+       Serial.write(1);    //This data sets the Controller Number (Controller 1)
+       Serial.write(x);    //This data is the value (0-127) (0 usually minimume and 127 as maximum)
      }
     
     lastX = x;
