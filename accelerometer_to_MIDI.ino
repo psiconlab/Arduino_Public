@@ -1,5 +1,4 @@
 #include <AcceleroMMA7361.h>
-#include <MIDI.h>
 
 //ACCEL
 AcceleroMMA7361 accelero;
