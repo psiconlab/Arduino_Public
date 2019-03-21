@@ -11,7 +11,7 @@ Hairless MIDI serial and LoopBe need to be installed on the PC. Hairless MIDI de
 ## Videos
 
 Some videos of these in action here:<br>
-https://www.youtube.com/user/phluxm
+https://www.youtube.com/watch?v=Sysc4m5WBRs&list=PLK97vHtT6kElv3KbduHqCx-dmEcHraSOI
 
 ## Files
 ### potentiometer_x4_to_MIDI
