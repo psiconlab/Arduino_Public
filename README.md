@@ -23,10 +23,10 @@ Arduino sketch that reads values from an MMA7361 accelerometer  and converts the
 ## Related
 
 ### Arduino_Ultrasonic_MIDI_Native 
-Repository here : https://github.com/psiconlab/Arduino_Ultrasonic_MIDI_Native
+https://github.com/psiconlab/Arduino_Ultrasonic_MIDI_Native
 
 ### Arduino_Ultrasonic_MIDI
-Repository here : https://github.com/psiconlab/Arduino_Ultrasonic_MIDI
+https://github.com/psiconlab/Arduino_Ultrasonic_MIDI
 
 ## Links
 [More info on sending serial MIDI data](http://little-scale.blogspot.co.uk/2011/08/simple-examples-of-sending-midi-data.html)
