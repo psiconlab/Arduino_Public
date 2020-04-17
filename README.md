@@ -20,5 +20,13 @@ Arduino sketch that reads analog values from 4 potentiometers and converts these
 ### accelerometer_to_MIDI
 Arduino sketch that reads values from an MMA7361 accelerometer  and converts these values to serial MIDI data.
 
+## Related
+
+### Arduino_Ultrasonic_MIDI_Native 
+Repository here : https://github.com/psiconlab/Arduino_Ultrasonic_MIDI_Native
+
+### Arduino_Ultrasonic_MIDI
+Repository here : https://github.com/psiconlab/Arduino_Ultrasonic_MIDI
+
 ## Links
 [More info on sending serial MIDI data](http://little-scale.blogspot.co.uk/2011/08/simple-examples-of-sending-midi-data.html)
